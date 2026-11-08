@@ -10,7 +10,7 @@ theme = "ananke"
 
 [params]
   backgroundImage = 'img/backgrounds.png'
-  description = "A collection of stories about science, technology, history, and the world."
+  description = "A collection of AI-generated stories about science, technology, history, and the world."
 
 [[menus.main]]
   name = "Home"
