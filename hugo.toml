@@ -1,0 +1,23 @@
+baseURL = "https://curiosity-archive.github.io/"
+locale = "en-us"
+title = "Curiosity Archive"
+description = "A collection of AI-generated stories about science, technology, history, and the world."
+
+theme = "ananke"
+
+[security]
+  allowContent = ["^text/html$", "^text/markdown$"]
+
+[params]
+  backgroundImage = 'img/backgrounds.png'
+  description = "A collection of stories about science, technology, history, and the world."
+
+[[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "Stories"
+  pageRef = "/posts/"
+  weight = 20
