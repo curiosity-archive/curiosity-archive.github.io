@@ -2,4 +2,7 @@
 /resources/_gen/
 /.hugo_build.lock
 
-.agent.md
+.DS_Store
+.DS_Store/
+
+.agents/

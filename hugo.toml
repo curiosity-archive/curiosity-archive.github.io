@@ -11,6 +11,7 @@ theme = "ananke"
 [params]
   backgroundImage = 'img/backgrounds.png'
   description = "A collection of AI-generated stories about science, technology, history, and the world."
+  mainSections = ["posts"]
 
 [[menus.main]]
   name = "Home"
