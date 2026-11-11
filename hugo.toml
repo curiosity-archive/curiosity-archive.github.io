@@ -19,6 +19,6 @@ theme = "ananke"
   weight = 10
 
 [[menus.main]]
-  name = "Stories"
+  name = "Posts"
   pageRef = "/posts/"
   weight = 20
